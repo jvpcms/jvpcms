@@ -1,5 +1,5 @@
 <div id="top" align ="center" >
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=100&duration=3500&pause=7000&color=FFFFF0&background=1B14FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer++Engineer+and+Software+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=100&duration=3000&pause=0&color=FFFFF0&background=1B14FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer++Engineer+and+Software+Developer" alt="Typing SVG" /></a>
 </div>
 
  <p align="left">Military Engineering Institute (IME), RJ-Brazil.
