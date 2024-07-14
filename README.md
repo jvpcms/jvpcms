@@ -1,5 +1,7 @@
 <div id="top" align ="center" >
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=100&duration=2000&pause=3500&color=FFFFF0&background=1B14FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer++Engineer+and+Software+Developer" alt="Typing SVG" /></a>
+    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=100&duration=2000&pause=3500&color=FFFFF0&background=1B14FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer++Engineer+and+Software+Developer" alt="Typing SVG" /></a>
+
 </div>
 
  <p align="left">Military Engineering Institute (IME), RJ-Brazil.
@@ -14,13 +16,9 @@
  
  <br>
  
- <div align="left">
-   
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpcms&layout=compact&theme=tokyonight&border_color=0c594f)
-   
- </div>
- 
- 
+ # Stats
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=jvpcms&theme=react&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jvpcms&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=31&card_width=296px)
 
 <!--
 **jvpcms/jvpcms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
