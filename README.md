@@ -36,8 +36,8 @@
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git)](https://ra1nbow.xyz?ref=github)
 
  # Stats
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=jvpcms&theme=react&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jvpcms&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=31&card_width=296px)
+![](https://github-readme-stats.vercel.app/api?username=jvpcms&theme=react&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=jvpcms&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=31&card_width=296px)
 
 <!--
 **jvpcms/jvpcms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
