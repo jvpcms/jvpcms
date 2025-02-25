@@ -1,8 +1,7 @@
-<div id="top" align ="center" >
-    
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=100&duration=2000&pause=3500&color=FFFFF0&background=1B14FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer++Engineer+and+Software+Developer" alt="Typing SVG" /></a>
+### Hi, I'm João!
+A fourth-year computer engineering undergraduate at the Military Engineering Institute (IME) with research experience on AI and data science, focusing on misinformation detection. Passionate about machine learning and automation, applying these skills in both research and personal projects. Experience in full-stack development, data analysis, and AI-driven solutions.
 
-</div>
+<br>
 
  <p align="left">Military Engineering Institute (IME), RJ-Brazil.
    <a href="https://www.linkedin.com/in/jo%C3%A3ovictor-engenharia/" target="_blank">
