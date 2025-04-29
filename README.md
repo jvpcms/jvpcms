@@ -35,5 +35,5 @@ A fourth-year computer engineering undergraduate at the Military Engineering Ins
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=jvpcms&theme=react&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=jvpcms&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=31&card_width=296px)
+![](https://github-readme-stats.vercel.app/api?username=jvpcms&theme=react&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues&show_icons=true&line_height=31&card_width=488px)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=jvpcms&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&line_height=31&card_width=296px)
