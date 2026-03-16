@@ -1,5 +1,5 @@
 ### Hi, I'm João Victor! 👋
-A final computer engineering undergraduate at the Military Engineering Institute (IME) with research experience on AI and data science, focusing on misinformation detection. Passionate about machine learning and automation, applying these skills in both research and personal projects. Experience in full-stack development, data analysis, and AI-driven solutions.
+A final year computer engineering undergraduate at the Military Engineering Institute (IME) with research experience on AI and data science, focusing on misinformation detection. Passionate about machine learning and automation, applying these skills in both research and personal projects. Experience in full-stack development, data analysis, and AI-driven solutions.
 
 <br>
 
